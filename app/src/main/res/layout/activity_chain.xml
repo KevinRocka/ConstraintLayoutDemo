@@ -197,7 +197,7 @@
     <!-- weight chain -->
     <TextView
         android:id="@+id/weight_tv1"
-        android:layout_width="0"
+        android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_marginTop="10dp"
         android:background="#B22222"
@@ -212,7 +212,7 @@
 
     <TextView
         android:id="@+id/weight_tv2"
-        android:layout_width="0"
+        android:layout_width="0dp"
         android:layout_height="50dp"
         android:background="#87CEEB"
         android:gravity="center"
@@ -225,7 +225,7 @@
 
     <TextView
         android:id="@+id/weight_tv3"
-        android:layout_width="0"
+        android:layout_width="0dp"
         android:layout_height="50dp"
         android:background="#00FF00"
         android:gravity="center"
